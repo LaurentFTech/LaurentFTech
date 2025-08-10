@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨‍💻 LaurentFTech
 
-<!--
-**LaurentFTech/LaurentFTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer | Software Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+## 🔧 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical tools that simplify everyday tasks, focusing on reliability and user-friendliness.
+
+## 🚀 Current Projects
+
+- **Podcast Creator**: A tool to generate podcasts with multiple voices from scripts.
+- **Language Learning Tools**: Developing resources to aid in language acquisition.
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaboration or to discuss tech!
