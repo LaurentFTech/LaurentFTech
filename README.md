@@ -1,6 +1,6 @@
 # 👨‍💻 LaurentFTech
 
-Engineer | Software Enthusiast | Problem Solver
+System Engineer | Software Enthusiast | Problem Solver
 
 ## 🔧 What I Do
 
