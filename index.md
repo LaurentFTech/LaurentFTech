@@ -1,5 +1,3 @@
-# 🧑‍💻Laurent.F.Tech
-
 System Engineer | Software Enthusiast | Problem Solver
 
 ## 🔧 What I Do
