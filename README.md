@@ -8,7 +8,7 @@ I build practical tools that simplify everyday tasks, focusing on reliability an
 
 ## 🚀 Current Projects
 
-- **Podcast Creator**: A tool to generate podcasts with multiple voices from scripts.
+- **Podcast Generator**: A tool to generate podcasts with multiple voices from scripts.
 - **Language Learning Tools**: Developing resources to aid in language acquisition.
 
 ## 🤝 Let's Connect
